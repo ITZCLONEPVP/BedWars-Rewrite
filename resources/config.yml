@@ -1,0 +1,10 @@
+
+#(Options: json, mysql)
+data-provider: "json"
+
+#MySQL (fill if provider = mysql)
+mysql-host: "127.0.0.1"
+mysql-user: "user"
+mysql-pass: "password"
+mysql-port: "3306"
+mysql-db: "database"

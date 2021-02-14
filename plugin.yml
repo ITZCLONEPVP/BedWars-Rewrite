@@ -1,0 +1,5 @@
+name: BedWars
+author: boi1485
+version: 1.0
+api: 3.7.14
+main: BedWars\BedWars
